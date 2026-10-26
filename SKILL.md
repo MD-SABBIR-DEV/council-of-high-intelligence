@@ -728,7 +728,7 @@ If no seat carried 1.5× (ambiguous match), say so. If split, show both options 
 ### Epistemic Diversity Scorecard
 - Perspective spread (1-5): {how orthogonal the viewpoints were}
 - Provider spread (1-5): {how distributed across model families — 1 if single provider}
-- Evidence mix: {% empirical / mechanistic / strategic / ethical / heuristic}
+- Evidence mix: {% raw %}{% empirical / mechanistic / strategic / ethical / heuristic}{% endraw %}
 - Convergence risk: {Low/Medium/High with reason}
 
 ### Follow-Up
